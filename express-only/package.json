@@ -1,0 +1,12 @@
+{
+  "name": "express-only",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nodemon ./app.mjs"
+  },
+  "dependencies": {
+    "express": "~4.16.1",
+    "nodemon": "^3.0.1"
+  }
+}
